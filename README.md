@@ -4,7 +4,7 @@ Użytkownik posiada dwie możliwość wprowadzenia danych o ładunku (wymiary pa
 A. Eksport pliku tekstowego z danymi,
 B. Manualne wprowadzenie danych o każdej jednostce ładunku.
 
-Algorytm w formie modelu MVC składa się z 4 klas:
+Algorytm bazuje na modelu MVC i składa się z 4 klas:
 1. class View: interfejs użytkownika; rozpoczęcie programu, wyświetlenie wyniku końcowego.
 2. class Model_A: wprowadzenie i analiza spójność danych otrzymanych od użytkownika (wybór A).
 3. class Model_B: wprowadzenie i analiza spójność danych otrzymanych od użytkownika (wybór B).
