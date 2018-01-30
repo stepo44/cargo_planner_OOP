@@ -20,7 +20,7 @@ The program is applicable in the logistics area.
 It helps user (transport planner) to draft a cargo placement on standard trailer truck 24t.
 User has two options to input cargo data (dimensions, weight):
 A. Upload of a text file,
-B. Manual data entry of each boxes.
+B. Manual data entry of each box.
 
 The algorythm uses MVC model. It consists of 4 classes:
 1. class View: user interface; program start and end-output.
